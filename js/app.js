@@ -34,3 +34,6 @@ button.addEventListener(`click`,start_axios);
 
 let picksum = document.getElementById(`picsum`);
 picksum.addEventListener(`click`,picksum_axios);
+
+let many = document.getElementById(`many`);
+many.addEventListener
